@@ -1,0 +1,5 @@
+Order: BurgerOrder: Pasta
+Table Number: 3
+Customer Name: rtyu
+Customer Phone Number: 4567
+Total Amount: 13.98

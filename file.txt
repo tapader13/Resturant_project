@@ -1,0 +1,4 @@
+1. "Burger", "Delicious burger with beef patty.", 5.99, true,
+2. "Pizza", "Cheesy pizza with various toppings.", 8.99, true,
+3. "Salad", "Healthy salad with fresh vegetables.", 4.99, false,
+4. "Pasta", "Classic pasta with marinara sauce.", 7.99, true,

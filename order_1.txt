@@ -1,0 +1,5 @@
+Order: Salad
+Table Number: 1
+Customer Name: wert
+Customer Phone Number: 3456
+Total Amount: 4.99
